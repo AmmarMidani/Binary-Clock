@@ -4,6 +4,6 @@ A binary clock is a clock that displays the time of day in a binary format. Orig
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Binary_clock.svg/539px-Binary_clock.svg.png)
 
 ## Screenshots
-![](images/01.JPG)
+![](images/001.JPG)
 
 you can close application when hit ESC key, Enjoy!
